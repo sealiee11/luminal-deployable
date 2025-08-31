@@ -1,6 +1,6 @@
 # Luminal deployable
 
-## https://discord.gg/mP6NBnVJeN
+## https://discord.luminal.lol
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%sealiee11%2Fluminal-deployable)
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/sealiee11/luminal-deployable"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
